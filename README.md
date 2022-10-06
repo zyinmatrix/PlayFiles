@@ -1,2 +1,2 @@
 # PlayFiles
- A system that plays songs from a playlist according to user's choise
+ A system that plays songs from ./sigs playlist according to user's choise
